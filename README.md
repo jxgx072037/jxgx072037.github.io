@@ -1,2 +1,2 @@
-# jxgx072037.github.io-
+# jxgx072037.github.io
 github pages
